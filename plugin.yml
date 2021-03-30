@@ -1,0 +1,12 @@
+name: MineCustom
+api: 3.0.0
+main: minas\Main
+version: "Oficial [V-1, M-0]"
+authors:
+  - "[FormAPI] jojoe77777" 
+  - "[MinaCustom] oHeyDeniis"
+load: POSTWORLD
+commands:
+  mina:
+    description: Abrir Menu de Minas
+    aliases: [mymina]
